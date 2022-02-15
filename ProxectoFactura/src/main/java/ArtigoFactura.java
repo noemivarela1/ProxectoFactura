@@ -4,7 +4,7 @@
  */
 
 /**
- *
+ * Datos do artigo dunha factura
  * @author Noemí Varela Rodríguez <nvarela at iessanclemente.net>
  * @date 15 feb 2022 
  * @time 16:57:49 
